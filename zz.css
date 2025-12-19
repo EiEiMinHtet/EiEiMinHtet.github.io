@@ -408,3 +408,11 @@
                 display: none;
             }
         }
+        @media screen and (max-width: 600px){
+            body{
+                font-size: 18px;;
+            }
+            .container{
+                width: 100%;
+            }
+        }
